@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Full stack Web development, Data structures and Algorithms.  
 - 💞️ I’m looking to collaborate on Open Source Contributions and Anything which makes me level up my skills.
 - 📫 How to reach me  tanushkalalwani09@gmail.com
-- 😎 Here is My Leetcode Profile[https://leetcode.com/Tanushka/]
-- 
+- 😎 Here is My  [Leetcode Profile](https://leetcode.com/Tanushka/)
